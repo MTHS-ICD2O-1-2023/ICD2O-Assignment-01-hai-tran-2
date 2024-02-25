@@ -1,4 +1,28 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Hai Tran
+* Created on: Feb 2024
 * This file contains the CSS for index.html
-*/
+*/ 
+.page-content {
+  text-align: center;
+  font-size: 30px;
+  padding: 10pt;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  border: 2px solid #404E6D;
+}
+
+li {
+  display: inline-block;
+  font-size: 18px;
+  padding: 20pt;
+  color: #D1A83B;
+}
+
+ul {
+  text-align: center;
+}
+
